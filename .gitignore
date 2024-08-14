@@ -1,0 +1,7 @@
+# .gitignore
+
+# 忽略所有名为 `.terraform` 的文件夹及其内容
+.terraform/
+
+# 忽略所有以 `.terraform` 开头的文件
+.terraform*
